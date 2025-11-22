@@ -2,7 +2,7 @@
 
 **`Técnico em Desenvolvimento de Sistemas`**
 
-Olá, eu sou o Thiago, tenho 18 anos, sou de Hortolândia (SP) e desde cedo sou apaixonado por tecnologia. Concluí o ensino médio integrado com o curso técnico em Desenvolvimento de Sistemas na Etec de Hortolândia, e atualmente estou cursando Sistemas de Informação no UNASP Hortolândia.
+Olá, eu sou o Thiago, tenho 19 anos, sou de Hortolândia (SP) e desde cedo sou apaixonado por tecnologia. Concluí o ensino médio integrado com o curso técnico em Desenvolvimento de Sistemas na Etec de Hortolândia, e atualmente estou cursando Sistemas de Informação no UNASP Hortolândia.
 
 Gosto de aprender, criar e compartilhar. Este GitHub é o espaço onde coloco meus projetos, estudos e tudo o que venho desenvolvendo na minha jornada como estudante e profissional de tecnologia.
 
